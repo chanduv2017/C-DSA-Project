@@ -97,11 +97,3 @@ Program ended!
 - A C compiler (e.g., GCC).
 
 ---
-
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code.
-
----
-
-## Author
-[Your Name] - A passionate programmer exploring sorting algorithms and their real-world applications.
